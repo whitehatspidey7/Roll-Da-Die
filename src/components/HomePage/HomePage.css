@@ -1,0 +1,19 @@
+h1
+{
+    font-size:6ch;
+}
+
+.text
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.dice-img img
+{
+    width:649px;
+    height:522px;
+}
